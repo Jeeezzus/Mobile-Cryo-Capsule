@@ -20,9 +20,4 @@ Here is a representation of each part of the project
 |![corps](schematics/corps.png)|Corps: The main part of the assembly. It serves to maintain the entire structure.|
 |![Bottom](schematics/Bottom.png)|Bottom: The piece supporting the assembly. It serves to ensure sufficient space for the escape of air from the radiator.|
 
-
-
-
-
-
 ![exploded](exploded.png)
