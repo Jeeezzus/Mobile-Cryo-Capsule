@@ -1,16 +1,26 @@
-# Moulage du silicone pour le joint des deux versions du Mobile Cryo Capsule
+# Silicone Molding for the Seal of Both Versions of the Mobile Cryo Capsule
 
-> Pour la version MCC_V1 et MCC_V2, le processus de moulage est identique. 
+> For both MCC_V1 and MCC_V2 versions, the molding process is identical.
 
-## Objectif du joint silicone
-Le joint silicone est d'assurer l'étanchéité à l'eau (présente avec la glace à l'intérieure de la cloche intérieure qui peut fondre), AInsi qu'à l'air pour assurer le vide entre les cloches.
+## Purpose of the Silicone Seal
+The silicone seal ensures water tightness (present with ice inside the inner bell which can melt), as well as air tightness to maintain the vacuum between the bells.
 
-Affin d'avoir un assemblage parfait, les cloches sont directement utilisées pour le moulage puisque le silicone accroche peu au verre.
+To achieve a perfect assembly, the bells are directly used for molding since silicone adheres weakly to glass.
 
 ## Process
-Dans un premier temps, il faut imprimet puis assembler le moule.
+Firstly, print and assemble the mold.
 
 |  Interior | + | exterior | = | mold|
 | -------- | ------- | ------- | ------- | ------- |
 | ![mold1](../../Media/Molding/mold1.png) | + |  ![mold2](../../Media/Molding/mold2.png) | = | ![moldfinale](../../Media/Molding/mold0.png) |
+
+The height of the rod and the diameters need to be adjusted according to the purchased bells.
+
+Next, drill in the center to allow air to escape during pouring and drill then thread the necessary tubing for vacuum creation.
+
+The bells are held in place with the rod for the interior and the ring for the exterior. It is advised to use small dots of hot glue to ensure the assembly stays together.
+
+Finally, pour 125-150 mL of silicone in two parts. Using Moldstar or a slightly flexible Dragonskin allows for increased tightness.
+
+![molded](../../Media/Molding/Molding1.jpeg)
 
