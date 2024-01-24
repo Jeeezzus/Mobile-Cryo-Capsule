@@ -11,7 +11,7 @@ To achieve a perfect assembly, the bells are directly used for molding since sil
 Firstly, print and assemble the mold.
 
 |  Interior | + | exterior | = | mold|
-| -------- | ------- | ------- | ------- | ------- |
+| -------- | - | ------- | - | ------- |
 | ![mold1](../../Media/Molding/mold1.png) | + |  ![mold2](../../Media/Molding/mold2.png) | = | ![moldfinale](../../Media/Molding/mold0.png) |
 
 The height of the rod and the diameters need to be adjusted according to the purchased bells.
