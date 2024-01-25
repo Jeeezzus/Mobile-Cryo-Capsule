@@ -1,3 +1,7 @@
+> Please look at the list of processes [here](Processes.md)
+
+# <span style="color:red">Please check the security informations here [(must read)](Security.md)</span>
+
 # Mobile-Cryo-Capsule
 |||
 |-|-|
